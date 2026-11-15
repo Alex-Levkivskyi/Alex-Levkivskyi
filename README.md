@@ -39,7 +39,7 @@ Full Stack Developer with hands-on experience in building modern single-page app
 
 ### 📊 GitHub Stats
 
-![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Levkivskyi&show_icons=true&theme=tokyonight)
+![Oleksandr's GitHub stats](https://github.com/Alex-Levkivskyi/Alex-Levkivskyi/blob/main/README.md))
 
 ---
 
