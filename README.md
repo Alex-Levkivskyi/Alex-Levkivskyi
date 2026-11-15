@@ -39,9 +39,17 @@ Full Stack Developer with hands-on experience in building modern single-page app
 
 ### 📊 GitHub Stats
 
-![Oleksandr's GitHub stats](https://github.com/Alex-Levkivskyi/Alex-Levkivskyi/blob/main/README.md))
+![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Levkivskyi&show_icons=true&theme=tokyonight)
 
 ---
+
+### 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-levkivskyi-84a944437)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oleksandr_levkivskyi@protonmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-levkivskyi-84a944437)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oleksandr_levkivskyi@protonmail.com)
 
 ### 📫 How to reach me
 
